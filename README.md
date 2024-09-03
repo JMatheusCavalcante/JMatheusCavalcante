@@ -13,10 +13,10 @@ Hi there, what do you want to know about me?! 👋
 
 
 
-QA Analyst with a strong background in software development. Over the past four years, I have honed my skills in HTML, CSS, and JavaScript, gaining a deep understanding of all phases of software development. My journey from development to QA has given me a unique perspective on building and testing software, allowing me to bridge the gap between code creation and quality assurance effectively. Currently, I'm focused on enhancing my skills through personal projects
+QA Analyst with a strong background in software development. Over the past four years, I have honed my skills in HTML, CSS, and JavaScript, gaining a deep understanding of all phases of software development. My journey from development to QA has given me a unique perspective on building and testing software, allowing me to bridge the gap between code creation and quality assurance effectively. Currently, I'm focused on enhancing my skills through personal projects  ![Your Custom Image](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png) 
 
 
-👨🏻‍💻 My best language: JavaScript ![Your Custom Image](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png) 
+👨🏻‍💻 My best language: JavaScript
 
 🧠 But I know too: TypeScript, SQL, and I'm familiar with Phyton and Robot Framework for test automation.
 
