@@ -13,10 +13,10 @@ Hi there, what do you want to know about me?! 👋
 
 
 
-QA Analyst with a strong background in software development.   ![Your Custom Image](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png) 
+QA Analyst with a strong background in software development.   
 Over the past four years, I have honed my skills in HTML, CSS, and JavaScript, 
 gaining a deep understanding of all phases of software development. 
-My journey from development to QA has given me a unique perspective on building and testing software, 
+My journey from development to QA has given me a unique perspective on building and testing software, ![Your Custom Image](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png) 
 allowing me to bridge the gap between code creation and quality assurance effectively. 
 Currently, I'm focused on enhancing my skills through personal projects. 
 
