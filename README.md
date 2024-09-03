@@ -1,4 +1,13 @@
-Hi there, what do you want to know about me?! 👋        ![Your Custom Image](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png) <!
+Hi there, what do you want to know about me?! 👋       
+                                                              
+                                                                 
+                                                               
+                                                        
+                                                          
+                                                          
+                                                    
+                                                                                                                                                                               
+ ![Your Custom Image](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png) 
 
 
 
