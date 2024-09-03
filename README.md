@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; position: relative;">
   <div style="flex: 1;">
-    <h1>Hi there, what do you want to know about me?! 👋</h1>    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Your Custom Image" width="200" style="position: absolute; top: 0; right: 0; margin: 20px;">
+    <h1>Hi there, what do you want to know about me?! 👋</h1>    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Your Custom Image" width="200" style="position: absolute; top: 0; right: 100; margin: 20px;">
     <p>
       QA Analyst with a strong background in software development. Over the past four years, I have honed my skills in HTML, CSS, and JavaScript, gaining a deep understanding of all phases of software development. My journey from development to QA has given me a unique perspective on building and testing software, allowing me to bridge the gap between code creation and quality assurance effectively. Currently, I'm focused on enhancing my skills through personal projects.
     </p>
