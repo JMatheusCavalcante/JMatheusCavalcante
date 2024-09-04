@@ -38,7 +38,7 @@
   </td>
         
  <td style="width: 250px;">
-          <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Your Custom Image" width="250" style="margin-left: 20px;">
+          <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Your Custom Image" width="250" style="margin-left: 20px; margin-top: 2px;">
  </td>
  
   </tr>
