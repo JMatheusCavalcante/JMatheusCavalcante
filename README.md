@@ -23,7 +23,7 @@
        
 🔥 Topics of interest: Software quality assurance, test automation, frontEnd development, and new tools to improve software reliability.<br>
 
-💬 Ask me about test automation and how to improve software quality.
+
 
 
 <p>
