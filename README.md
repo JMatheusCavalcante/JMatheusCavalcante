@@ -19,7 +19,7 @@
 
 🧠 But I know too: TypeScript, SQL, and I'm familiar with Python and Robot Framework for test automation.<br>
 
-📦 And frameworks? React, Node.js, Selenium... there's a lot to discuss, so feel free to reach out!<br>
+📦 And frameworks? React, Node.js, Cypress, Selenium... there's a lot to discuss, so feel free to reach out!<br>
        
 🔥 Topics of interest: Software quality assurance, test automation, frontEnd development, and new tools to improve software reliability.<br>
 
