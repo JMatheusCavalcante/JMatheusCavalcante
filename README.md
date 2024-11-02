@@ -4,7 +4,7 @@
       <h1>Hi there, Im Matheus! 👋</h1>
       <p>
         QA Analyst with a strong background in software development.<br>
-        Over the past four years, I have honed my skills in<br>
+        Over the past years, I have honed my skills in<br>
         HTML, CSS, and JavaScript, gaining a deep understanding<br>
         of all phases of software development. My journey from<br>
         development to QA has given me a unique perspective on<br>
